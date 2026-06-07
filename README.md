@@ -1,6 +1,5 @@
 ## Hi there 👋  I'm Vivek Singh
-
-# Software Engineer , Android App Devlopmant With GenAI , Website Development , ERP System Developer , Django CMS , Custome Software Developer , Multi-threading , Multi-processing , Sockets , Shared Memory , Distributed Systems , MVVM , REST APIs , Agile/Scrum , Root Cause Analysis , Git , GitHub , Jira , GDB , Valgrind , Linux CLI , Firebase , MySQL , GCP , AWS , TCP/IP , UDP , Ethernet , Serial/UART , CAN Bus , Modbus , NMEA , VLANs , Linux (Ubuntu/Debian) , Unix , RTOS Concepts (VxWorks, QNX).
+Software Engineer , Android App Devlopmant With GenAI , Website Development , ERP System Developer , Django CMS , Custome Software Developer , Multi-threading , Multi-processing , Sockets , Shared Memory , Distributed Systems , MVVM , REST APIs , Agile/Scrum , Root Cause Analysis , Git , GitHub , Jira , GDB , Valgrind , Linux CLI , Firebase , MySQL , GCP , AWS , TCP/IP , UDP , Ethernet , Serial/UART , CAN Bus , Modbus , NMEA , VLANs , Linux (Ubuntu/Debian) , Unix , RTOS Concepts (VxWorks, QNX).
 Message Queues, Semaphores, Pipes
  I’m currently working on Java , Javascrpit , python , C , C++ , Kotlin , Python , SQL ,
 <!--
