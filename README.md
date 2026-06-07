@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!--
-**raoviveksingh3-ai/raoviveksingh3-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ebsite Development, ERP System Developer, Django CMS , Rest API , Final Year Project Trainer , Custome Software Developer
+raoshreepal
 
 Here are some ideas to get you started:
 
