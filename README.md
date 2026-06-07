@@ -1,5 +1,5 @@
 ## Hi there 👋  I'm Vivek Singh
-
+ I’m currently working on Java , Javascrpit , python , C , C++ , Kotlin , Python , SQL ,
 <!--
 ebsite Development, ERP System Developer, Django CMS , Rest API , Final Year Project Trainer , Custome Software Developer
 raoshreepal
